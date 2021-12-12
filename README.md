@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ignat40
 - 👀 I’m interested in computer science and sports
 - 🌱 I’m currently learning computer programming
-- 💞️ I’m looking to collaborate on 
+- 🛒 I'm open to internship suggestions
 - 📫 How to reach me: here my e-mail - ignatbojinov@gmail.com
 
 <!---
