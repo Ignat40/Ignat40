@@ -1,6 +1,7 @@
+<h1 align = "center">👋 Hi, I’m @Ignat Bojinov</h1>
+
 ### About me:
 
-- 👋 Hi, I’m @Ignat40
 - 🏫 11th grade student
 - 👀 I’m interested in computer science and sports
 - 👨‍💻 I’m currently learning computer programming
