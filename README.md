@@ -1,11 +1,17 @@
+### About me:
+
 - 👋 Hi, I’m @Ignat40
 - 👀 I’m interested in computer science and sports
 - 👨‍💻 I’m currently learning computer programming
 - 💻 Developing photometry
 - 🛒 I'm open to internship suggestions
-- 📫 How to reach me: here is my e-mail - ignatbojinov@gmail.com
-- 🔥 Instagram: ignat.bjnv
-- 📞 Discord: botsi#3180
+- 🚀 My goals are to become viable developer
+- 💡 I'm very determined and love to learn new things
 
-![image](https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/600/Instagram_glyph_svg-128.png)
-[![image](https://www.iconninja.com/files/95/764/889/social-online-media-facebook-icon.png)](https://www.facebook.com/iti.bojinov)
+
+### Contact with me:
+
+---
+
+[<img align = "left" alt = "ignat.bjnv | Instagram" width = "60px" src = "https://icon-library.com/images/black-instagram-icon-png/black-instagram-icon-png-7.jpg" />] [instagram]
+
