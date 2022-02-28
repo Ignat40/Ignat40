@@ -6,8 +6,6 @@
 - 📫 How to reach me: here is my e-mail - ignatbojinov@gmail.com
 - 🔥 Instagram: ignat.bjnv
 - 📞 Discord: botsi#3180
-###biggers
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
 
+![image](https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/600/Instagram_glyph_svg-128.png)
+[![image](https://www.iconninja.com/files/95/764/889/social-online-media-facebook-icon.png)](https://www.facebook.com/iti.bojinov)
