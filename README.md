@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🏫 11th grade student
+- 🏫 12th grade student
 - 👀 I’m interested in computer science and sports
 - 👨‍💻 I’m currently learning computer programming
 - 💻 Developing photometry
