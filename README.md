@@ -2,10 +2,10 @@
 
 ### About me:
 
-- 🏫 12th grade student
+- 🏫 SDU Software Engineering Student
 - 👀 I’m interested in computer science and sports
 - 👨‍💻 I’m currently learning computer programming
-- 💻 Developing photometry
+- 💻 Developing ...
 - 🛒 I'm open to internship suggestions
 - 🚀 My goals are to become viable developer
 - 💡 I'm very determined and love to learn new things
