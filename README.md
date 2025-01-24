@@ -45,7 +45,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/c.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy learning new skills <br/><br/>
  ❤️ &emsp; Intellectually curious<br/><br/>
