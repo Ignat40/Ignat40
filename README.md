@@ -77,10 +77,19 @@
 
 ## Top Repos & Contributions -
 
-[![BrickedUp](https://github-readme-stats.vercel.app/api/pin/?username=Kacper-Grzyb&repo=BrickedUp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Kacper-Grzyb/BrickedUp)
+
+<p align="center">
+  <a href="https://github.com/Kacper-Grzyb/BrickedUp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kacper-Grzyb&repo=BrickedUp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Kacper-Grzyb/heat-production-optimization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kacper-Grzyb&repo=heat-production-optimization&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+</p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Ignat40?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
