@@ -15,7 +15,7 @@
   <!--<samp>-->
   <!--  <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>-->
   <!--  <br>-->
-    「 I am Junior Software Engineer currently at <b>Denmark</b> 」
+    「 I am Junior Software Engineer currently at <b>Canada</b> 」
     <br>
     <br>
   </samp>
