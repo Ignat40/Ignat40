@@ -15,7 +15,7 @@
   <!--<samp>-->
   <!--  <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>-->
   <!--  <br>-->
-    「 I am Junior Software Engineer currently at <b>Canada</b> 」
+    「 I am Junior Software Engineer currently at <b>Denmark</b> 」
     <br>
     <br>
   </samp>
@@ -50,7 +50,7 @@
  ✌️ &emsp; Enjoy learning new skills <br/><br/>
  ❤️ &emsp; Intellectually curious<br/><br/>
  👀 &emsp; Looking for intresting people and challenges<br/><br/>
- 📧 &emsp; Reach me anytime: ignatbojinob@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: ignatbojinov@gmail.com<br/><br/>
 
 </p>
 
@@ -75,22 +75,31 @@
 
 <br/>
 
-## Top Repos & Contributions -
-
+## Top Repositories
 
 <p align="center">
-  <a href="https://github.com/Kacper-Grzyb/BrickedUp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kacper-Grzyb&repo=BrickedUp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <a href="https://github.com/Ignat40/evo-comp-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=evo-comp-final&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Kacper-Grzyb/heat-production-optimization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kacper-Grzyb&repo=heat-production-optimization&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <a href="https://github.com/Ignat40/ML-Tabular-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=ML-Tabular-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ignat40/Bachelor-Thesis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=Bachelor-Thesis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+  <a href="https://github.com/Ignat40/SemesterProjectS25">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=SemesterProjectS25&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/Ignat40?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Ignat40?tab=repositories">
+    <img alt="All Repositories" title="All Repositories"
+    src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
@@ -98,17 +107,18 @@
 <br/>
 
 
+
+## GitHub Activity
+
 <p align="center">
-  <a href="https://github.com/Ignat40">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ignat40&theme=radical" alt="Ignat's GitHub Contribution"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ignat40&theme=radical" />
 </p>
 
-<a> 
-    <a href="https://github.com/Ignat40"><img alt="Ignat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ignat40&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Ignat40"><img alt="Ignat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ignat40&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ignat40&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ignat40&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+</p>
+
 
 
 
