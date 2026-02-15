@@ -77,23 +77,26 @@
 
 ## Top Repositories
 
+## 🚀 Top Repositories
+
 <p align="center">
   <a href="https://github.com/Ignat40/evo-comp-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=evo-comp-final&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=evo-comp-final&theme=dark" />
   </a>
   <a href="https://github.com/Ignat40/ML-Tabular-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=ML-Tabular-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=ML-Tabular-Project&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ignat40/Bachelor-Thesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=Bachelor-Thesis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=Bachelor-Thesis&theme=dark" />
   </a>
   <a href="https://github.com/Ignat40/SemesterProjectS25">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=SemesterProjectS25&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Ignat40&repo=SemesterProjectS25&theme=dark" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Ignat40?tab=repositories">
